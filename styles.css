@@ -1,0 +1,58 @@
+.nav-font {
+  font-family: sans-serif;
+  font-size: 48px;
+  font-weight: bolder;
+}
+
+.trending-title-font {
+  font-family: sans-serif;
+  font-size: 32px;
+  font-weight: bolder;
+}
+
+.trending-story-font  {
+  font-size: 24px;
+}
+
+.article-title {
+  font-family: sans-serif;
+  font-size: 24px;
+  color: blue;
+}
+
+.article-body {
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+.link-bar{
+  background-color: orange;
+}
+
+.article-links {
+  font-family: sans-serif;
+  font-size: 14px;
+  color: white;
+}
+
+.card-size {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.card-body-color {
+  background-color: #F7F7F7;
+}
+
+.card-body-text {
+  font-family: sans-serif;
+  font-size: 32px;
+  text-align: center;
+}
+
+.card-footer-text {
+  font-family: sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
